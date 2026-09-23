@@ -12,7 +12,7 @@ permission secured) and a **network scan** against a host on my own local networ
 ## 📄 Report
 
 The full write-up (methodology, evidence, risk analysis, recommendations) is in
-[`Pentest_Report_Networkwalks.docx`](./Pentest_Report_Networkwalks.docx).
+[`Pentest_Report_Networkwalks.docx`](./Pentest_Report_Networkwalks.pdf).
 
 ## 🧰 Tools Used
 
